@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px auto 30px;
+  max-width: 1000px;
+}
+
+h1 {
+  margin-top: -30px;
+}
+ul {
+  list-style: square;
+  line-height: 2.5;
+}
+.croissant-photo {
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto 60px;
+}
+.email {
+  display: block;
+  font-size: 24px;
+  padding: 0px 15px 50px;
+}
+.link {
+  color: #f8e49c;
+  background-color: #45b35e;
+  font-size: large;
+  font-weight: 700;
+  padding: 20px 15px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.link:hover {
+  background-color: #f8e49c;
+  color: #45b35e;
+  border: 1px solid #45b35e;
+}
+.container {
+  max-width: 1200px;
+  padding: 60px;
+  background-color: #f8e49c;
+  border-radius: 5px;
+}
